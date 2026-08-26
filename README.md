@@ -36,5 +36,5 @@
 ### 📬 Connect With Me
 
 * **GitHub:** [@GollaSaravanan](https://github.com/GollaSaravanan)
-* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/)
-* **Email:** [Send an Email](mailto:your-email@example.com)
+* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/saravanan-g-onhappinessmode/)
+* **Email:** [Send an Email](saravanangolla@gmail.com)
