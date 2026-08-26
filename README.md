@@ -4,39 +4,33 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Electronics+%26+Embedded+Systems+Explorer;Data+Science+%26+ML+Practitioner;Building+hardware-software+systems;Always+learning+and+innovating" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=550&lines=Electronics+%26+Embedded+Systems+Explorer;Data+Science+%26+ML+Practitioner;Building+hardware-software+systems;Always+learning+and+innovating" alt="Typing SVG" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GollaSaravanan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 ### ⚡ About Me
 
-- 🎓 Pursuing **ECE** and **Data Science & Applications**
-- 🛠️ Focusing on embedded systems, RTOS, edge computing, and intelligent data systems
-- 💡 Passionate about building hardware-integrated solutions and autonomous platforms
-- 🌐 Open for collaborations on electronics, robotics, and software architecture
+* 🎓 Pursuing **ECE** and **Data Science & Applications**
+* 🛠️ Focusing on embedded systems, RTOS, edge computing, and intelligent data pipelines
+* 💡 Passionate about hardware-software co-design, robotics, and automation
+* 🌐 Open for collaborations on cutting-edge engineering and data projects
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Arsenal
 
-<div align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-2C3E50?style=for-the-badge&logo=microchip&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  
-  <br/>
-  
-  <!-- Frameworks & Hardware -->
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,flask,raspberrypi,arduino,stm32,git,linux,bash,vscode&perline=6&theme=dark" />
+  </a>
 </div>
 
 <br/>
@@ -50,7 +44,20 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GollaSaravanan&theme=tokyonight&hide_border=true" width="94%" />
+  <img src="https://streak-stats.demolab.com?user=GollaSaravanan&theme=tokyonight&hide_border=true" width="94%" />
+</div>
+
+<br/>
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br/>
