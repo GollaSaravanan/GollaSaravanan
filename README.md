@@ -1,5 +1,5 @@
 # ⚡ Saravanan Golla
-## Electronics & Embedded Systems | Data Science & Applications
+## Electronics and Communication Engineering | Data Science & Applications
 ### Easwari Engineering College | Indian Institute of Technology-Madras
 
 > Dual-domain engineer focused on VLSI, embedded computing, RTOS architecture, intelligent edge systems, and hardware-software co-design.
